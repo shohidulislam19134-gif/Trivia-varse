@@ -1,0 +1,6 @@
+{
+  "name": "TriviaVerse AI: Live Host Game Show",
+  "description": "Interactive live trivia game show featuring dynamic AI hosts with customizable personalities, real-time voice banter via Gemini 3.8 Live, expressive speech synthesis with Gemini 3.8 Flash TTS, and up-to-date facts grounded with Google Search.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
